@@ -1,0 +1,14 @@
+/* Identação para toda tag "p" */
+p {
+    text-indent: 1em;
+}
+
+/* Altera o estilo de uma tag personalizada */
+.citacao {
+    font-style: italic;
+}
+
+.linkExterno {
+    font-size: 16px;
+    color: darkgreen;   
+}
